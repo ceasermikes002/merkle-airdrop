@@ -99,11 +99,5 @@ Ensure the deployment script located at `ignition/modules/Airdrop.ts` is configu
 - **Gas Costs**: Claiming tokens and updating the Merkle root can be expensive in terms of gas costs, particularly on networks with high gas fees.
 - **Merkle Tree Size**: The size of the Merkle tree and the number of proofs can affect the performance and complexity of the airdrop.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
 For further assistance, please reach out via [email](mailto:michealceaser02@gmail.com) or open an issue in the repository.
 
